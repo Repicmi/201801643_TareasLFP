@@ -1,0 +1,22 @@
+Diferencia entre lenguajes de programación imperativos y declarativos:
+
+Con un lenguaje de programación imperativo tenemos que escribir comandos o sentencias 
+que la computadora interpreta como instrucciones que realiza una tras otra, declaramos variables, 
+establecemos ciclos, creamos clases, etc...
+mientras que un lenguaje de programación declarativo recibe comandos que son mas abstractos 
+y necesitan ser razonados (Un comando como suma solo recibe los numeros sin necesidad de declarar variables)
+
+Ejemplo: 
+
+la suma de 1 y 2 
+
+Lenguaje imperativo:		Lenguaje Declarativo:
+
+int a,b,c;                 		suma = Sum(1,2)
+a=1;                        		
+b=2;                        		
+c=a+b;                     		
+
+Un ejemplo de uso, los lenguajes de programación imperativos son como la mayoría de lenguajes que utilizamos
+asi que tienen un uso casi universal, pero el lenguaje de programación declarativo tiene usos más especificos
+como utilizarlo para optimizar el rendimiento de programas (Con el uso de razonamiento matemático)

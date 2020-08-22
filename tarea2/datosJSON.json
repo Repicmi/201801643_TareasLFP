@@ -1,0 +1,26 @@
+[
+	{
+		"Año de nacimiento": 1990,
+		"Soltero(a)": true,
+		"Apodo": "Canelo",
+		"Peso(kg)": 61
+	},
+	{
+		"Año de nacimiento": 1986,
+		"Soltero(a)": false,
+		"Apodo": "Jere",
+		"Peso(kg)": 56
+	},
+	{
+		"Año de nacimiento": 1998,
+		"Soltero(a)": false,
+		"Apodo": "Shori",
+		"Peso(kg)": 65
+	},
+	{
+		"Año de nacimiento":2001,
+		"Soltero(a)": true,
+		"Apodo": "Isa",
+		"Peso(kg)": 80
+	}
+]

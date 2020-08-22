@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<datos>
+	<dato id="1">
+		<nombre> Elmer Gustavo </nombre>
+		<edad> 32 </edad>
+		<apellido> Ordoñez Ramirez</apellido>
+		<estatura> 1.85 </estatura>
+	</dato>
+	<dato id="2">
+		<nombre> Luis Alejandro </nombre>
+		<edad> 29 </edad>
+		<apellido> Perez Garcia </apellido>
+		<estatura> 1.77 </estatura> 	
+	</dato>
+	<dato id="3">
+		<nombre>Jeremias Alexander </nombre>
+		<edad> 22</edad>
+		<apellido>Paz Xia</apellido>
+		<estatura> 1.66</estatura> 	
+	</dato>
+	<dato id="4">
+		<nombre>Jorge David</nombre>
+		<edad> 26</edad>
+		<apellido>Ávila Mendoza</apellido>
+		<estatura> 1.85</estatura> 	
+	</dato>
+</datos>

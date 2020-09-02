@@ -1,0 +1,36 @@
+import json, os
+fuente = "roman"
+print("Cargando elementos al reporte HTML")
+
+with open('datos.json', 'r') as f:
+    z = json.load(f)
+
+#        print('Nombre: ', archivo['nombre'])
+#        print('Edad: ', archivo['edad'])
+#        print('Estado: ', archivo['activo'])
+#        print('Saldo: ', archivo['Saldo'])
+f = open("datos.html","w")
+f.write("<html>")
+f.write("<head> <title> Resumen de Datos: Tarea 4 </title> </head>")
+f.write("<body>")
+f.write("<h3>Resumen de datos ingresados vía Python:</h3>")
+f.write("<font size=3>")
+f.write("<table>")
+f.write("<tr>")
+f.write("<th>Nombre</th>")
+f.write("<th>Edad</th>")
+f.write("<th>Activo</th>")
+f.write("<th>Saldo</th>")
+f.write("</tr>")
+for archivo in z:
+    f.write("<tr>")
+    f.write("<td> " + archivo['nombre'] + "</td>")
+    f.write("<td> %s" %archivo['edad'] + " </td>")
+    f.write("<td> %s" %archivo['activo'] + " </td>")
+    f.write("<td> %s" %archivo['Saldo'] + " </td>")
+    f.write("</tr>")
+f.write("</table>")
+f.write("</body>")
+f.write("</html>")
+f.close()
+os.system("start datos.html")

@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Roosevelt Mann",
+        "edad": 25,
+        "activo": true,
+        "Saldo": 688.36
+    },
+    {
+        "nombre": "Aaron Friedman",
+        "edad": 36,
+        "activo": true,
+        "Saldo": 1399.95
+    },
+    {
+        "nombre": "Helen Bellamy",
+        "edad": 45,
+        "activo": false,
+        "Saldo": 1590
+    },
+    {
+        "nombre": "Murat Campbell",
+        "edad": 31,
+        "activo": false,
+        "Saldo": 568.45
+    },
+    {
+        "nombre": "Lenny Anderson",
+        "edad": 40,
+        "activo": true,
+        "Saldo": 956.67
+    },
+    {
+        "nombre": "Keaton Oneil",
+        "edad": 21,
+        "activo": true,
+        "Saldo": 865.75
+    },
+    {
+        "nombre": "Clare Partridge",
+        "edad": 27,
+        "activo": false,
+        "Saldo": 1150
+    },
+    {
+        "nombre": "Arnold Blackburn",
+        "edad": 52,
+        "activo": true,
+        "Saldo": 640
+    },
+    {
+        "nombre": "Marlie Roman",
+        "edad": 28,
+        "activo": false,
+        "Saldo": 750
+    },
+    {
+        "nombre": "Cynthia Spencer",
+        "edad": 32,
+        "activo": true,
+        "Saldo": 1200
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Roosevelt Mann",
+        "edad": 25,
+        "activo": true,
+        "promedio": 88.36
+    },
+    {
+        "nombre": "Aaron Friedman",
+        "edad": 36,
+        "activo": true,
+        "promedio": 99.95
+    },
+    {
+        "nombre": "Helen Bellamy",
+        "edad": 45,
+        "activo": false,
+        "promedio": 100
+    },
+    {
+        "nombre": "Murat Campbell",
+        "edad": 31,
+        "activo": false,
+        "promedio": 84
+    },
+    {
+        "nombre": "Lenny Anderson",
+        "edad": 40,
+        "activo": true,
+        "promedio": 95
+    },
+    {
+        "nombre": "Keaton Oneil",
+        "edad": 21,
+        "activo": true,
+        "promedio": 87.66
+    },
+    {
+        "nombre": "Clare Partridge",
+        "edad": 27,
+        "activo": false,
+        "promedio": 59.56
+    },
+    {
+        "nombre": "Arnold Blackburn",
+        "edad": 52,
+        "activo": true,
+        "promedio": 64
+    },
+    {
+        "nombre": "Marlie Roman",
+        "edad": 28,
+        "activo": false,
+        "promedio": 75.40
+    },
+    {
+        "nombre": "Cynthia Spencer",
+        "edad": 32,
+        "activo": true,
+        "promedio": 89.64
+    }
+]

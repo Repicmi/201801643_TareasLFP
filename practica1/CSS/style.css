@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-image: url('img/fondo.jpg');
+}
+.titulo{
+    text-align: center;
+    color: white;
+}
+.tabla{
+width: 50%;
+	border: 1px solid white;
+	padding: 12px;
+	background: #0A4E6F;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 16px;
+	text-align: center;
+
+}

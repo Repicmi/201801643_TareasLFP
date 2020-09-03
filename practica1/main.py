@@ -97,7 +97,7 @@ while opcion != "SALIR":
     elif opcion[0] == "REPORTAR":
         contados = 0
         for contar in range (0, len(datos_cargados)):
-            contados = contados + (len(datos_cargados))
+            contados = contados + (len(datos_cargados[contar]))
         if int(opcion[1]) > contados:
             print("No hay suficientes datos para reportar, vuelva a intertar con menos")
         else:
